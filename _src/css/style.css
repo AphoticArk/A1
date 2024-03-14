@@ -20,9 +20,9 @@ header ul {
 header a {
      margin-right: 1.5rem;
      text-decoration: none;
-     color: #C16766;
+     color: #F08058;
 }
 header a:hover {
-     color: #F08058;
+     color: #C16766;
      text-decoration: underline;
 }
