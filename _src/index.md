@@ -19,4 +19,4 @@ testing some new content
 - weirdly complicated?
 - too many features?
 
-Git is weird and hard on frozen IMD machines.
+Git is weird and hard on frozen IMD machines. Damn them
