@@ -13,6 +13,7 @@ This is a page that I made with eleventy. Or is it 11ty? I don't know.
 - fast
 - safe
 - pretty neat
+testing some new content
 
 ## Cons
 - weirdly complicated?
