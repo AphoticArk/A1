@@ -1,7 +1,7 @@
 body {
      margin: 0;
      font-family: Arial, Helvetica, sans-serif;
-     background-color: #F08058;
+     background-color: #F6F9FD;
      color: #5D5B5C;
 }
 main {
@@ -23,6 +23,6 @@ header a {
      color: #C16766;
 }
 header a:hover {
-     color: #F6F9FD;
+     color: #F08058;
      text-decoration: underline;
 }
