@@ -1,7 +1,7 @@
 body {
      margin: 0;
      font-family: Arial, Helvetica, sans-serif;
-     background-color: #C16766;
+     background-color: #F08058;
      color: #5D5B5C;
 }
 main {
@@ -20,7 +20,7 @@ header ul {
 header a {
      margin-right: 1.5rem;
      text-decoration: none;
-     color: #F08058;
+     color: #C16766;
 }
 header a:hover {
      color: #F6F9FD;
