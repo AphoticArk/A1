@@ -10,14 +10,13 @@ hasjs: 1
 
 This is my second favourite pokemon of all time. And my favourite pokemon in gen 5 pokemon black and white. 
 
-
 ## Pros! 
 
 - fast
 - high special attack
 - high special defense
-- has quiver dance
-- signature move has 50% chance to raise special attack by 1 stage (50% more damage per stage)
+- has quiver dance (+1 stage in special attack, special defense, and speed (50% stat increase per stage))
+- signature move has 50% chance to raise special attack by 1 stage (50% stat increase per stage)
 
 
 ## Cons
