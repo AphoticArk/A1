@@ -40,3 +40,14 @@ img {
 
      float: right;
 }
+label{
+     display: block;
+     font-size: 1.3em;
+     margin-top: 4vw;
+     margin-bottom: .8vw;
+}
+input {
+     display: block;
+     /* margin-left: 1vw; */
+     margin-top: 1.4vw;
+}

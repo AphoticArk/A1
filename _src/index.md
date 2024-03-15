@@ -11,7 +11,7 @@ hasjs: 1
 This is my second favourite pokemon of all time. And my favourite pokemon in gen 5 pokemon black and white. 
 
 
-## Pros!
+## Pros! 
 
 - fast
 - high special attack
