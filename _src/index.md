@@ -24,5 +24,5 @@ This is my second favourite pokemon of all time. And my favourite pokemon in gen
 - low physical defense
 - 4x weakness to rock
 
-## Team role
+### Team role
 Designed to set up with quiver dance and take out as many pokemon before fainting.

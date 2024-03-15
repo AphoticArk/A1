@@ -33,21 +33,55 @@ h1 {
      /* flex-direction: column; */
      /* float: left; */
 }
+h3 {
+     margin-top: 3.7vw;
+     margin-bottom: .7vw;
+}
 p {
      margin: 0;
 }
 img {
 
      float: right;
+     
 }
+
+table {
+     margin-top: 2vw;
+     margin-bottom: 5vw;
+}
+table  { 
+     border-style: ridge;
+     border-width: 7px;
+     border-color: coral; 
+}
+th {
+     padding: 0vw 2vw .7vw;
+}
+td {
+     text-align: center;
+}
+
 label{
      display: block;
      font-size: 1.3em;
      margin-top: 4vw;
      margin-bottom: .8vw;
 }
+textarea {
+     border-style: ridge;
+     border-width: 7px;
+     border-color: coral; 
+}
 input {
      display: block;
      /* margin-left: 1vw; */
      margin-top: 1.4vw;
+     background-color: #F08058;
+     border-color: #C16766;
+     border: #C16766 solid 2.5px;
+}
+input:hover {
+     background-color: #C16766;
+     border-color: #F08058;
 }
