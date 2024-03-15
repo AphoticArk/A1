@@ -5,7 +5,7 @@ body {
      color: #5D5B5C;
 }
 main {
-     margin: 10vw 15vw;
+     margin: 8vw 6vw;
 }
 header {
      margin: 0;
@@ -18,6 +18,7 @@ header ul {
      display: flex;
 }
 header a {
+     font-size: 1.2em;
      margin-right: 1.5rem;
      text-decoration: none;
      color: #F08058;
@@ -25,4 +26,7 @@ header a {
 header a:hover {
      color: #C16766;
      text-decoration: underline;
+}
+img {
+     display: flex;
 }

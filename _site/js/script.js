@@ -1,1 +1,1 @@
-console.log('we have js!');
+console.log('new js test')

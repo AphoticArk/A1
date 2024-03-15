@@ -5,18 +5,20 @@ body {
      color: #5D5B5C;
 }
 main {
-     margin: 10vw 15vw;
+     margin: 8vw 6vw;
 }
 header {
      margin: 0;
      padding: 1em;
      background-color: #B7E1DF;
+
 }
 header ul {
      list-style: none;
      display: flex;
 }
 header a {
+     font-size: 1.2em;
      margin-right: 1.5rem;
      text-decoration: none;
      color: #F08058;
@@ -24,4 +26,7 @@ header a {
 header a:hover {
      color: #C16766;
      text-decoration: underline;
+}
+img {
+     display: flex;
 }

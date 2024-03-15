@@ -4,24 +4,27 @@ layout: "page.njk"
 hasjs: 1
 ---
 
-# This is my site title
+# Volcorona
 
-This is a page that I made with eleventy. Or is it 11ty? I don't know.
+![Volcorona](https://assets.pokemon.com/assets/cms2/img/pokedex/full/637.png)
+
+This is my second favourite pokemon of all time. 
+
+And my favourite pokemon in gen 5 pokemon black and white. 
+
 
 ## Pros!
 
 - fast
-- safe
-- pretty neat
+- high special attack
+- high special defense
+- has quiver dance
+- signature move has 50% chance to raise special attack by 1 stage (50% more damage per stage)
 
 
 ## Cons
-- weirdly complicated?
-- too many features?
-testing some new content
+- low physical defense
+- 4x weakness to rock
 
-## testing again some new content
-- testing some new content third time
-once more testing some new content
-
-Git is weird and hard on frozen IMD machines. Damn them
+## Team role
+Designed to set up with quiver dance and take out as many pokemon before fainting
