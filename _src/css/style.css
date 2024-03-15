@@ -27,6 +27,16 @@ header a:hover {
      color: #C16766;
      text-decoration: underline;
 }
+h1 {
+     width: fit-content;
+     /* display: flex; */
+     /* flex-direction: column; */
+     /* float: left; */
+}
+p {
+     margin: 0;
+}
 img {
-     display: flex;
+
+     float: right;
 }
